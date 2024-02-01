@@ -1,0 +1,14 @@
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.exe
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.deps.json
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.runtimeconfig.json
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.dll
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.pdb
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.AssemblyInfoInputs.cache
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.AssemblyInfo.cs
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.dll
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\refint\Rock Paper Scissors.dll
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.pdb
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.genruntimeconfig.cache
+D:\Random Shit\VSShit\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\ref\Rock Paper Scissors.dll
